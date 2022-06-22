@@ -5,7 +5,7 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>CV Rama Jaya</title>
+  <title>CV Aneka karya</title>
   <meta content="" name="description">
   <meta content="" name="keywords">
 
@@ -43,7 +43,7 @@
       <div id="logo" class="me-auto">
         <!-- Uncomment below if you prefer to use a text logo -->
         <!-- <h1><a href="index.html">The<span>Event</span></a></h1>-->
-        <a href="index.html" class="scrollto"><img src="{{ asset('frontend') }}/assets/img/logo.png" alt="" title=""></a>
+        <a href="index.html" class="scrollto"><img src="{{ asset('logoaneka.png') }}" alt="" title=""></a>
       </div>
 
       <nav id="navbar" class="navbar order-last order-lg-0">
@@ -63,8 +63,8 @@
   <!-- ======= Hero Section ======= -->
   <section id="hero">
     <div class="hero-container" data-aos="zoom-in" data-aos-delay="100">
-      <h1 class="mb-4 pb-0">CV<br><span>RAMA JAYA</span></h1>
-      <a href="#about" class="about-btn scrollto">Tentang CV Rama Jaya</a>
+      <h1 class="mb-4 pb-0">CV<br><span>ANEKA KARYA</span></h1>
+      <a href="#about" class="about-btn scrollto">Tentang CV Aneka karya</a>
     </div>
   </section><!-- End Hero Section -->
 
@@ -75,7 +75,7 @@
       <div class="container" data-aos="fade-up">
         <div class="row">
           <div class="col-lg-12">
-            <h2>Tentang CV Rama Jaya</h2>
+            <h2>Tentang CV Aneka karya</h2>
             <p>Sed nam ut dolor qui repellendus iusto odit. Possimus inventore eveniet accusamus error amet eius aut
               accusantium et. Non odit consequatur repudiandae sequi ea odio molestiae. Enim possimus sunt inventore in
               est ut optio sequi unde.</p>
@@ -97,7 +97,7 @@
       <div class="container" data-aos="fade-up">
         <div class="section-header">
           <h2>Project Di Tawarkan</h2>
-          <p>CV Rama Jaya</p>
+          <p>CV Aneka karya</p>
         </div>
 
         <div class="row">
@@ -132,7 +132,7 @@
 
         <div class="section-header">
           <h2>Hasil Pekerjaan</h2>
-          <p>Berikut Gambar Hasil Pekerjaan CV Rama Jaya</p>
+          <p>Berikut Gambar Hasil Pekerjaan CV Aneka karya</p>
         </div>
 
         {{-- <div class="row g-0">
@@ -157,64 +157,64 @@
 
           <div class="col-lg-3 col-md-4">
             <div class="venue-gallery">
-              <a href="{{ asset('frontend') }}/assets/img/venue-gallery/1.jpg" class="glightbox" data-gall="venue-gallery">
-                <img src="{{ asset('frontend') }}/assets/img/venue-gallery/1.jpg" alt="" class="img-fluid">
+              <a href="{{ asset('frontend/assets/img/img-1.jpeg') }}" class="glightbox" data-gall="venue-gallery">
+                <img src="{{ asset('frontend/assets/img/img-1.jpeg') }}" alt="" class="img-fluid">
               </a>
             </div>
           </div>
 
           <div class="col-lg-3 col-md-4">
             <div class="venue-gallery">
-              <a href="{{ asset('frontend') }}/assets/img/venue-gallery/2.jpg" class="glightbox" data-gall="venue-gallery">
-                <img src="{{ asset('frontend') }}/assets/img/venue-gallery/2.jpg" alt="" class="img-fluid">
+                <a href="{{ asset('frontend/assets/img/img-2.jpeg') }}" class="glightbox" data-gall="venue-gallery">
+                    <img src="{{ asset('frontend/assets/img/img-2.jpeg') }}" alt="" class="img-fluid">
               </a>
             </div>
           </div>
 
           <div class="col-lg-3 col-md-4">
             <div class="venue-gallery">
-              <a href="{{ asset('frontend') }}/assets/img/venue-gallery/3.jpg" class="glightbox" data-gall="venue-gallery">
-                <img src="{{ asset('frontend') }}/assets/img/venue-gallery/3.jpg" alt="" class="img-fluid">
+                <a href="{{ asset('frontend/assets/img/img-3.jpeg') }}" class="glightbox" data-gall="venue-gallery">
+                    <img src="{{ asset('frontend/assets/img/img-3.jpeg') }}" alt="" class="img-fluid">
               </a>
             </div>
           </div>
 
           <div class="col-lg-3 col-md-4">
             <div class="venue-gallery">
-              <a href="{{ asset('frontend') }}/assets/img/venue-gallery/4.jpg" class="glightbox" data-gall="venue-gallery">
-                <img src="{{ asset('frontend') }}/assets/img/venue-gallery/4.jpg" alt="" class="img-fluid">
+                <a href="{{ asset('frontend/assets/img/img-4.jpeg') }}" class="glightbox" data-gall="venue-gallery">
+                    <img src="{{ asset('frontend/assets/img/img-4.jpeg') }}" alt="" class="img-fluid">
               </a>
             </div>
           </div>
 
           <div class="col-lg-3 col-md-4">
             <div class="venue-gallery">
-              <a href="{{ asset('frontend') }}/assets/img/venue-gallery/5.jpg" class="glightbox" data-gall="venue-gallery">
-                <img src="{{ asset('frontend') }}/assets/img/venue-gallery/5.jpg" alt="" class="img-fluid">
+                <a href="{{ asset('frontend/assets/img/img-5.jpeg') }}" class="glightbox" data-gall="venue-gallery">
+                    <img src="{{ asset('frontend/assets/img/img-5.jpeg') }}" alt="" class="img-fluid">
               </a>
             </div>
           </div>
 
           <div class="col-lg-3 col-md-4">
             <div class="venue-gallery">
-              <a href="{{ asset('frontend') }}/assets/img/venue-gallery/6.jpg" class="glightbox" data-gall="venue-gallery">
-                <img src="{{ asset('frontend') }}/assets/img/venue-gallery/6.jpg" alt="" class="img-fluid">
+                <a href="{{ asset('frontend/assets/img/img-6.jpeg') }}" class="glightbox" data-gall="venue-gallery">
+                    <img src="{{ asset('frontend/assets/img/img-6.jpeg') }}" alt="" class="img-fluid">
               </a>
             </div>
           </div>
 
           <div class="col-lg-3 col-md-4">
             <div class="venue-gallery">
-              <a href="{{ asset('frontend') }}/assets/img/venue-gallery/7.jpg" class="glightbox" data-gall="venue-gallery">
-                <img src="{{ asset('frontend') }}/assets/img/venue-gallery/7.jpg" alt="" class="img-fluid">
+                <a href="{{ asset('frontend/assets/img/img-7.jpeg') }}" class="glightbox" data-gall="venue-gallery">
+                    <img src="{{ asset('frontend/assets/img/img-7.jpeg') }}" alt="" class="img-fluid">
               </a>
             </div>
           </div>
 
           <div class="col-lg-3 col-md-4">
             <div class="venue-gallery">
-              <a href="{{ asset('frontend') }}/assets/img/venue-gallery/8.jpg" class="glightbox" data-gall="venue-gallery">
-                <img src="{{ asset('frontend') }}/assets/img/venue-gallery/8.jpg" alt="" class="img-fluid">
+                <a href="{{ asset('frontend/assets/img/img-8.jpeg') }}" class="glightbox" data-gall="venue-gallery">
+                    <img src="{{ asset('frontend/assets/img/img-8.jpeg') }}" alt="" class="img-fluid">
               </a>
             </div>
           </div>
@@ -336,7 +336,7 @@
             <div class="contact-email">
               <i class="bi bi-envelope"></i>
               <h3>Email</h3>
-              <p><a href="mailto:info@example.com">admin@cvramajaya.my.id</a></p>
+              <p><a href="mailto:info@example.com">admin@cvanekakarya.my.id</a></p>
             </div>
           </div>
 
@@ -377,7 +377,7 @@
 
     <div class="container">
       <div class="copyright">
-        &copy; Copyright <strong>CV Rama Jaya</strong>. All Rights Reserved
+        &copy; Copyright <strong>CV Aneka karya</strong>. All Rights Reserved
       </div>
       <div class="credits">
         <!--

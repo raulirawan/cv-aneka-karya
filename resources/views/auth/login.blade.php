@@ -95,7 +95,7 @@
   <!-- /.login-logo -->
   <div class="card">
     <div class="card-body login-card-body">
-      <p class="login-box-msg">CV Rama Jaya</p>
+      <p class="login-box-msg">CV Aneka karya</p>
       <p class="login-box-msg">Silahkan Login!</p>
 
       <form action="{{ route('login') }}" method="post">
