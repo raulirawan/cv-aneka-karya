@@ -56,7 +56,7 @@
         </ul>
         <i class="bi bi-list mobile-nav-toggle"></i>
       </nav><!-- .navbar -->
-      <a class="buy-tickets scrollto" href="#buy-tickets">WhatsApp</a>
+      <a class="buy-tickets scrollto" href="https://wa.me/6285158334413" target="_blank">WhatsApp</a>
 
     </div>
   </header><!-- End Header -->
@@ -226,7 +226,7 @@
     </section><!-- End Venue Section -->
 
 
-    <!-- =======  F.A.Q Section ======= -->
+    {{-- <!-- =======  F.A.Q Section ======= -->
     <section id="faq">
 
       <div class="container" data-aos="fade-up">
@@ -301,7 +301,7 @@
 
       </div>
 
-    </section><!-- End  F.A.Q Section -->
+    </section><!-- End  F.A.Q Section --> --}}
 
     <!-- ======= Subscribe Section ======= -->
 
@@ -321,7 +321,7 @@
             <div class="contact-address">
               <i class="bi bi-geo-alt"></i>
               <h3>Alamat</h3>
-              <address>Jl. Neraka No. 10</address>
+              <address>Jl. Joglo Raya No.21, Kecamatan Kembangan, Kota Jakarta Barat, DKI Jakarta, 11640</address>
             </div>
           </div>
 
@@ -329,7 +329,7 @@
             <div class="contact-phone">
               <i class="bi bi-phone"></i>
               <h3>Nomor Telepon</h3>
-              <p><a href="tel:+155895548855">+62 832 4235 2352</a></p>
+              <p><a href="tel:+6285158334413">+62 851 5833 4413</a></p>
             </div>
           </div>
 
